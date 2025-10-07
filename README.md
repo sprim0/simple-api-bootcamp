@@ -20,3 +20,4 @@ I completed the challenge: 5
 I feel good about my code: 4
 I'm not sure if my constructors are setup cleanly...
 ```
+<img width="383" height="407" alt="simple-api img beer" src="https://github.com/user-attachments/assets/58cfd4ac-75d4-4635-b4cf-eece3752f494" />
